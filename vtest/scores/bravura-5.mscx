@@ -249,3 +249,21 @@ p, li { white-space: pre-wrap; }
       </Staff>
     </Score>
   </museScore>
+   <Chord>
+          <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>tenuto</subtype>
+            </Articulation>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
